@@ -100,7 +100,7 @@
     </dependency>
   </dependencies>
   <properties>
-    <org.springframework.version>4.2.5.RELEASE</org.springframework.version>
+    <org.springframework.version>4.2.6.RELEASE</org.springframework.version>
   </properties>
 
   <build>
